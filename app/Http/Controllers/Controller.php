@@ -1,8 +1,9 @@
 <?php
 
-use Illuminate\View\View;
+
 
 namespace App\Http\Controllers;
+use Illuminate\View\View;
 
 abstract class Controller
 {
